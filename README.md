@@ -9,6 +9,6 @@ In this project, you will query the Sakila DVD Rental database. The Sakila Datab
 
 (Note: One quirk you may notice as you explore this "fake" database is that the rental dates are all from 2005 and 2006, while the payment dates are all from 2007. Don't worry about this.)
 
-### programming language
+### Programming language
 SQL
 
